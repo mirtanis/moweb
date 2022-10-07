@@ -38,30 +38,30 @@
 
 - 개인 카메라 배경 지우기
     
-    ![배경제거](/uploads/7448c9e7964937ef5b1086b30109ab97/배경_제거.gif)
+    ![배경제거](/uploads/배경_제거.gif)
     
 - 링크로 방 입장
 
-    ![초대하기](/uploads/4b5ee735ebf244b75a123e5293e9e895/초대하기.gif)
-    ![링크로입장](/uploads/fc357bc269de4694dfcb64d0dfcae64c/링크로입장.gif)
+    ![초대하기](/uploads/초대하기.gif)
+    ![링크로입장](/uploads/링크로입장.gif)
 
 - 실시간으로 함께 사진 찍기
 
-    ![촬영](/uploads/39896c97fd8d7fd09bc0c5ce95f59f32/촬영.gif)
+    ![촬영](/uploads/촬영.gif)
 
 - 레이어순서 변경
     
-    ![레이어](/uploads/c18921740a8add9f09becbf60ab0fdb7/레이어.gif)
+    ![레이어](/uploads/레이어.gif)
     
 - 가상 배경 색상 선택 가능
     
-    ![배경선택](/uploads/69bd254b0d9f9d6367567c201902ea4e/배경선택.gif)
+    ![배경선택](/uploads/배경선택.gif)
     
 - 사진 저장/공유
     
-    ![사진저장](/uploads/5101fa5740fe36b2de0cb1e91a9f92de/사진저장.gif)
-    ![공유하기](/uploads/92594423511e9bf48bbfd597e743155c/공유하기.gif)
-    ![공유하기2](/uploads/9072cf28f15707fb6e460e400ae14a43/공유하기2.gif)
+    ![사진저장](/uploads/사진저장.gif)
+    ![공유하기](/uploads/공유하기.gif)
+    ![공유하기2](/uploads/공유하기2.gif)
     
 ## 커밋 규칙
 
